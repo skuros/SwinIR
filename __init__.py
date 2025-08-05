@@ -1,1 +1,1 @@
-from SwinIR.models.network_swinir import SwinIR
+from models.network_swinir import SwinIR
